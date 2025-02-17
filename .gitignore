@@ -11,6 +11,7 @@ venv
 *.userosscache
 *.sln.docstates
 .env
+.env.example
 /coop/ 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
